@@ -1,3 +1,3 @@
 ## Languages
-  ![Swift](https://img.shields.io/badge/-Swift-FF4500) 
-  ![JS](https://img.shields.io/badge/-JavaScript-FFA500)
+  ![Swift UIKit](https://img.shields.io/badge/-Swift-FF4500) 
+  ![SwiftUI](https://img.shields.io/badge/-JavaScript-FFA500)
